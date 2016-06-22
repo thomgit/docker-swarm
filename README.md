@@ -18,7 +18,7 @@ Procedure to setup local VM nodes
 2. Edit above Vagrantfile using a text editor 
       - adjust v.memory ( 2048 recomended, 1024 or 512 MB as appropiate to your available desktop/laptop RAM ) 
       - adjust 'ip' in config.vm.network "private_network" to your choice or leave the default
-      - optional : you can change config.vm.box = "larryli/wily64" to your ubuntu or linux vagrant box distribtion
+      - optional : you can change config.vm.box = "larryli/wily64" to your preffered  ubuntu/linux vagrant box distribution.
                    
 3. On the OS command prompt , cd to the directory with above Vagrant file. 
    Load Oracle Virtual Manager application to monitor parallely.
