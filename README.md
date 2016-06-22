@@ -10,7 +10,7 @@ OS: Windows, OSX , Linux ...
 Sytem with at least 8GB memory/10GB free hard disk. 
   ** Lower RAM requires edit of Vagrantfile . See Procedure Step 2 below
 VirtualBox 5.0.22 and Vagrant 1.8.4 installed ( use latest version available )
-All nodes should be in the same subnet ( it will by default in the below Vagrant setup )
+All nodes should be in the same subnet ( it will by default be in the below Vagrant setup )
 
 Procedure to setup local VM nodes
 ---------------------------------
