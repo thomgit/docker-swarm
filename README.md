@@ -1,5 +1,5 @@
 # docker-swarm ( New Swarm Orchestration in Docker Engine v1.12 )
-Quick local docker multi-node swarm dev test using virtualbox/vagrant
+Quick local docker multi-node swarm dev/test setup using virtualbox/vagrant
 
 Based on the slick walksthrought demo by Elton Stoneman at https://www.youtube.com/watch?v=KC4Ad1DS8xU
 Refer above video for an insight into the new Docker Swarm clustering, orchestration, load balancing, mesh network etc in Docker Engine 1.12
@@ -8,7 +8,7 @@ Pre-requisite:
 ---------------
 OS: Windows, OSX , Linux ...
 Sytem with at least 8GB memory/10GB free hard disk. 
-  ** Lower RAM requires edit of Vagranfile . See Procedure Step 2 below
+  ** Lower RAM requires edit of Vagrantfile . See Procedure Step 2 below
 VirtualBox 5.0.22 and Vagrant 1.8.4 installed ( use latest version available )
 All nodes should be in the same subnet ( it will by default in the below Vagrant setup )
 
