@@ -1,7 +1,7 @@
 # docker-swarm ( New Swarm Orchestration in Docker Engine v1.12 )
 Quick local docker multi-node swarm dev/test setup using virtualbox/vagrant
 
-Based on the slick walksthrought demo by Elton Stoneman at https://www.youtube.com/watch?v=KC4Ad1DS8xU
+Based on the slick walkthrough demo by Elton Stoneman at https://www.youtube.com/watch?v=KC4Ad1DS8xU
 Refer above video for an insight into the new Docker Swarm clustering, orchestration, load balancing, mesh network etc in Docker Engine 1.12
 
 Pre-requisite: 
