@@ -1,4 +1,4 @@
-# docker-swarm ( New Swarm Orchestratoin in Docker Engine v1.12 )
+# docker-swarm ( New Swarm Orchestration in Docker Engine v1.12 )
 Quick local docker multi-node swarm dev test using virtualbox/vagrant
 
 Based on the slick walksthrought demo by Elton Stoneman at https://www.youtube.com/watch?v=KC4Ad1DS8xU
