@@ -23,7 +23,7 @@ Procedure to setup local VM nodes
 3. On the OS command prompt , cd to the directory with above Vagrant file. 
    Load Oracle Virtual Manager application to monitor parallely.
 
-    prompt>  vagrant up   ; This will download 15.10 ( larryli/wily64 ) if this vagrant box is not present and bring up
+    prompt>  vagrant up   ; This will download Ubuntu 15.10 ( larryli/wily64 ) if this vagrant box is not present and bring up
                             all the 4 VM nodes viz. 1 manager : swarmmgr1 and 3 swarm nodes : swarmnode1, swarmnode2, swarmnode3
 4. Log into the swarmmgr1  ( default login: vagrant/vagrant )
     1. install latest docker 1.12 using 
